@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Vyapar Flow Neural Core",
+  "description": "An advanced Enterprise OS Orchestrator with multi-node intelligence featuring real-time voice interaction, visual analysis, and multi-lingual support.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
